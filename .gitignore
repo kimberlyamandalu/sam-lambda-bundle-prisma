@@ -1,3 +1,7 @@
+.vscode
+.env
+.aws-sam
+
 # Logs
 logs
 *.log
